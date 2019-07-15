@@ -10,3 +10,8 @@
 <p>Version:0.0.1</p>
 <h3>Bugs and warnings</h3>
 <p>If the program does not respond (most likely due to large values), do not close it as it continues to generate the base and after a while it will generate it.</p>
+<h3>Screenshots</h3>
+<img src="img/screen1.png">
+<img src="img/screen2.png">
+<img src="img/screen3.png">
+<img src="img/screen4.png">
