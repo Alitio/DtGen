@@ -1,5 +1,5 @@
 <h1>DtGen</h1>
-<a href="https://donate.qiwi.com/payin/ALITIO"><img src="img/donate.png"></a>
+<a href="https://donate.qiwi.com/payin/ALITIO"><img src="img/donate-button.png"></a>
 <p>This program is designed to generate different types of databases. Each generated database can be saved to a file with any extension.This is only the first version of the program and, therefore, there may be some problems in its work. In the future, the program will be improved.</p>
 <h3>Types of databases</h3>
 <p>1.Passwords</p>
